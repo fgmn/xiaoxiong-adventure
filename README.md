@@ -2,8 +2,8 @@
 
 独立的新作，和旧版 `fgmn/xiaoxiong-game` 使用不同仓库、网址和存档。
 
-- 新作：https://fgmn.github.io/xiaoxiong-adventure/
-- 旧版：https://fgmn.github.io/xiaoxiong-game/（本项目不修改它）
+- 新作：[小熊不打烊](https://fgmn.github.io/xiaoxiong-adventure/)
+- 旧版：[小熊信号修理铺](https://fgmn.github.io/xiaoxiong-game/)（本项目不修改它）
 
 三个完整章节：自由调查、物品使用、记忆排序、证据连线与三次询问；纸箱机器人平台闯关、推箱搭桥、模块拆装与完整倾听；配方奶茶、计时饼干、空间打包与重复营业。小店完成后可散步、拍照导出 PNG、保存相册、拖动家具布置房间。三枚主章节印章全部收齐后，才可打开信。
 
