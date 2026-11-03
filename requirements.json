@@ -1,0 +1,9 @@
+{
+  "objective":"Implement all three proposed game concepts as one complete new game, while preserving the old website.",
+  "hosting":{"old":"https://fgmn.github.io/xiaoxiong-game/","new":"https://fgmn.github.io/xiaoxiong-adventure/","separateRepository":true,"separateSaveKey":true},
+  "detective":["Free exploration of bedroom, kitchen, station", "Interactive phone, drawer and objects", "Drag/reorder memory timeline", "Drag evidence and connect valid deductions", "Interrogate three versions of Arao with branching dialogue", "Object collection and combination", "New scenes unlocked through investigation", "Sealed apology letter unlocked only after main chapters"],
+  "factory":["Playable robot with keyboard and touch movement", "Platform jumping and hazards", "Push boxes and open bridge/gate", "Collect and deliver response bubbles", "No-big-deal button collapses a floor with a failure animation", "Replace automatic-disappearance module", "Hidden route and secrets", "Final door requires listening to the whole dialogue", "Restart, checkpoint, pause and replay"],
+  "shop":["Animal customers with stories and choices", "Milk tea ingredients and pouring timing", "Bear cookie mixing, shaping and baking timing", "Gift packing with spatial/physical interaction", "Funny failure states and retry", "Repeatable orders and earned decorations", "Close shop to unlock after-hours activities"],
+  "afterhours":["Interactive walk with discoveries", "Photo mode with frame and scene options", "Save gallery and download a picture", "Drag furniture to decorate a room", "Persistent room layout"],
+  "global":["Polished original illustrated neighborhood hub", "Chinese nicknames Arao and Little Bear", "Mobile responsive and keyboard accessible", "Automatic progress saving", "No direct letter skip or auto-solve", "Respectful final choices without forced forgiveness", "Meaningful rules tests plus real browser playthrough", "Publish and verify new GitHub Pages site"]
+}
